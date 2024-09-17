@@ -1,0 +1,14 @@
+.laranja{
+    background-color: #ff0000;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+    color: white;
+}
+.verde{
+    background-color: #008000;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+    color: white;
+}
